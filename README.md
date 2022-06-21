@@ -1,1 +1,1 @@
-python higher alx higher level programming
+read me file for python exceptions
